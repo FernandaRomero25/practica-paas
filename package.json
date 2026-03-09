@@ -1,0 +1,9 @@
+{
+  "name": "practica-paas",
+  "version": "1.0.0",
+  "description": "app simple",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
