@@ -1,9 +1,8 @@
 {
   "name": "practica-paas",
   "version": "1.0.0",
-  "description": "app simple",
-  "main": "index.html",
-  "scripts": {
-    "start": "node index.js"
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
